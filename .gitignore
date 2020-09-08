@@ -1,3 +1,17 @@
+# IDE settings
+.vscode
+.idea
+.DS_Store
+
+## Local files
+# Credentials
+# SSH keys (.pem files)
+# Secret config files
+
+
+
+
+# gitignore default -----
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
