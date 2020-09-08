@@ -8,7 +8,8 @@
 # SSH keys (.pem files)
 # Secret config files
 
-
+# Data
+*.csv
 
 
 # gitignore default -----
